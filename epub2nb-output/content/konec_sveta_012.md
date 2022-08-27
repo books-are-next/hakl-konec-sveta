@@ -9,7 +9,7 @@ contentType: prose
 
 > — Ladislav Klíma
 
-## 1.
+**1.**
 
 Na Dejvice začal padat déšť. Láďa se s radostí rozhodl, že nikam nepůjde. Napustil vodu do vany a otevřel si desítku. Ležel ve vodě, upíjel pivo a zkoušel sám sebe překvapit. Oči měl těsně nad vodou a snažil se co nejvíc vyprázdnit mysl. V okamžiku, kdy měl dojem, že se mu to podařilo, si usilovně představoval, že je trosečník ztracený uprostřed oceánu a že už nemůže, že je na konci sil, že chcípá žízní a vysílením a ke všemu že se teď právě z hlubin vynořila hlava děsivé nestvůry. Nečekaně vysunul z vody část těla a zvolna s ní otáčel, jako by se „to“ rozhlíželo. Sugestivní obraz hrůzy z neznámého živočicha dokresloval hlubokým mručením. V momentě, kdy se mu podařilo být víc tam než tady, se ozval zvonek. Láďa se rozhodl nedbat; když ale zvonek zařinčel potřetí a počtvrté, vylezl z vany, hodil na sebe odřený župan a šel otevřít. Za dveřmi stál zarudlý chlapík, ani by nešlo říct „povědomý“, a usmíval se.
 
@@ -63,7 +63,7 @@ Nakonec se spolu přece jen sťali. Němec slíbil, že se ozve, až bude mít v
 
 Na střechy se pořád snášel lehký, hustý déšť. Láďa vypustil studenou vodu z vany a sednul si k televizi. Dávali švédský špionážní film. Atomová ponorka, plná mlčenlivých Burjatů, uvízla na mělčinách v místech, kde neměla co dělat. A teď se to řešilo. Vysoký blonďák v uniformě se loučil s pihovatou, otlemenou manželkou. Odjížděl si s tím nějak poradit. Na trávníku před barákem na něj už čekal vrtulník. V předsíni zasunul do pouzdra pistoli. Kolem krku si omotal bílou šálu. Objal manželku. Manželka řekla: „Myslíš, že to bude obtížné…?“
 
-## 2.
+**2.**
 
 Pár měsíců poté dostal Láďa jako svatební dar zahradnictví za Havlíčkovým Brodem. Pořídil mu ho jeho otec, vesnický milionář, v naději, že se syn konečně usadí. Láďa se kdysi vyučil zahradníkem. Otec si řekl, že v něm aspoň něco z těch dob určitě muselo zůstat. A v tom se nespletl.
 
@@ -75,7 +75,7 @@ Láďa si z toho časem vypěstoval lehkou odpolední zábavu. Lovy beze zbran�
 
 Seděl a díval se, jak jdou mraky. Jak se z luk zvedá pára. Pil něco z hrnku a pokuřoval. Jediné, co mu zůstalo z jeho byvšího života, byly mírné, velmi snesitelné, ba někdy skoro až příjemné, nepříliš časté záchvaty marnosti.
 
-## 3.
+**3.**
 
 Půl roku nato u mě doma zazvonil telefon. Okamžitě jsem poznal Láďův meziměstský hlas; vždycky mluvil, jako by se loučil, jako by už měl puštěný plyn, jako by právě opouštěl hranice Sluneční soustavy. Říkal, že se mu ozval jeden Němec a že za ním jede do Brodu. Jestli se nechci přidat. Ať se spolu nějak domluvíme. Nadiktoval mi číslo. Návštěvu v Brodě jsem Láďovi koneckonců sliboval už dlouho.
 
@@ -191,7 +191,7 @@ Na stole stál železný hrnec s kapustou, ze kterého se valil dým jako ze so
 
 Prsatá milá scházela. Nikdo nevěděl, kam se poděla.
 
-## 4.
+**4.**
 
 Po jídle jsem vstal a šel se projít. Došel jsem k potoku a ohlédl se. Dům zářil uprostřed lijákem nadopovaných rybízů a ze střechy stoupala pára. Za domem se zdvíhala odplouvající temná hora, uvnitř které ještě tu a tam zapraskalo. Okraje bouřky měly barvu roztavených zlatých zubů. Všichni se právě trousili na terasu, sedali do proutěných židlí a odfukovali: _„__Tyvvvole_!“… _„__… já sem totálně vodkrvenej!__“… „__Chce někdo kafe?__“_
 

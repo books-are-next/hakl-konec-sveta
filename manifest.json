@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hakl-konec-sveta-d5b8438",
-  "revision": "d5b8438",
+  "identifier": "hakl-konec-sveta-deeba64",
+  "revision": "deeba64",
   "readingOrder": [
     "promo.html",
     "konec_sveta_005.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Aug 27 2022 09:44:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1661593446019
+    "date": "Sat Aug 27 2022 09:52:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661593945913
   },
   "documents": [
     {
@@ -77,99 +77,7 @@
           "level": 1,
           "name": "První cizinci v Praze",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "1.",
-              "id": "1",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "2.",
-              "id": "2",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "3.",
-              "id": "3",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "4.",
-              "id": "4",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "5.",
-              "id": "5",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "6.",
-              "id": "6",
-              "children": []
-            },
-            {
-              "index": 7,
-              "level": 2,
-              "name": "7.",
-              "id": "7",
-              "children": []
-            },
-            {
-              "index": 8,
-              "level": 2,
-              "name": "8.",
-              "id": "8",
-              "children": []
-            },
-            {
-              "index": 9,
-              "level": 2,
-              "name": "9.",
-              "id": "9",
-              "children": []
-            },
-            {
-              "index": 10,
-              "level": 2,
-              "name": "10.",
-              "id": "10",
-              "children": []
-            },
-            {
-              "index": 11,
-              "level": 2,
-              "name": "11.",
-              "id": "11",
-              "children": []
-            },
-            {
-              "index": 12,
-              "level": 2,
-              "name": "12.",
-              "id": "12",
-              "children": []
-            },
-            {
-              "index": 13,
-              "level": 2,
-              "name": "13.",
-              "id": "13",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -249,71 +157,7 @@
           "level": 1,
           "name": "Láďovo poslední tango",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "1.",
-              "id": "1",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "2.",
-              "id": "2",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "3.",
-              "id": "3",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "4.",
-              "id": "4",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "5.",
-              "id": "5",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "6.",
-              "id": "6",
-              "children": []
-            },
-            {
-              "index": 7,
-              "level": 2,
-              "name": "7.",
-              "id": "7",
-              "children": []
-            },
-            {
-              "index": 8,
-              "level": 2,
-              "name": "8.",
-              "id": "8",
-              "children": []
-            },
-            {
-              "index": 9,
-              "level": 2,
-              "name": "9.",
-              "id": "9",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -353,36 +197,7 @@
           "level": 1,
           "name": "Bouřka",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "1.",
-              "id": "1",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "2.",
-              "id": "2",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "3.",
-              "id": "3",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "4.",
-              "id": "4",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -422,225 +237,7 @@
           "level": 1,
           "name": "Druhá třetina (rychlorozpustný román)",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "1.",
-              "id": "1",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "2.",
-              "id": "2",
-              "children": []
-            },
-            {
-              "index": 3,
-              "level": 2,
-              "name": "3.",
-              "id": "3",
-              "children": []
-            },
-            {
-              "index": 4,
-              "level": 2,
-              "name": "4.",
-              "id": "4",
-              "children": []
-            },
-            {
-              "index": 5,
-              "level": 2,
-              "name": "5.",
-              "id": "5",
-              "children": []
-            },
-            {
-              "index": 6,
-              "level": 2,
-              "name": "6.",
-              "id": "6",
-              "children": []
-            },
-            {
-              "index": 7,
-              "level": 2,
-              "name": "7.",
-              "id": "7",
-              "children": []
-            },
-            {
-              "index": 8,
-              "level": 2,
-              "name": "8.",
-              "id": "8",
-              "children": []
-            },
-            {
-              "index": 9,
-              "level": 2,
-              "name": "9.",
-              "id": "9",
-              "children": []
-            },
-            {
-              "index": 10,
-              "level": 2,
-              "name": "10.",
-              "id": "10",
-              "children": []
-            },
-            {
-              "index": 11,
-              "level": 2,
-              "name": "11.",
-              "id": "11",
-              "children": []
-            },
-            {
-              "index": 12,
-              "level": 2,
-              "name": "12.",
-              "id": "12",
-              "children": []
-            },
-            {
-              "index": 13,
-              "level": 2,
-              "name": "13.",
-              "id": "13",
-              "children": []
-            },
-            {
-              "index": 14,
-              "level": 2,
-              "name": "14.",
-              "id": "14",
-              "children": []
-            },
-            {
-              "index": 15,
-              "level": 2,
-              "name": "15.",
-              "id": "15",
-              "children": []
-            },
-            {
-              "index": 16,
-              "level": 2,
-              "name": "16.",
-              "id": "16",
-              "children": []
-            },
-            {
-              "index": 17,
-              "level": 2,
-              "name": "17.",
-              "id": "17",
-              "children": []
-            },
-            {
-              "index": 18,
-              "level": 2,
-              "name": "18.",
-              "id": "18",
-              "children": []
-            },
-            {
-              "index": 19,
-              "level": 2,
-              "name": "19.",
-              "id": "19",
-              "children": []
-            },
-            {
-              "index": 20,
-              "level": 2,
-              "name": "20.",
-              "id": "20",
-              "children": []
-            },
-            {
-              "index": 21,
-              "level": 2,
-              "name": "21.",
-              "id": "21",
-              "children": []
-            },
-            {
-              "index": 22,
-              "level": 2,
-              "name": "22.",
-              "id": "22",
-              "children": []
-            },
-            {
-              "index": 23,
-              "level": 2,
-              "name": "23.",
-              "id": "23",
-              "children": []
-            },
-            {
-              "index": 24,
-              "level": 2,
-              "name": "24.",
-              "id": "24",
-              "children": []
-            },
-            {
-              "index": 25,
-              "level": 2,
-              "name": "25.",
-              "id": "25",
-              "children": []
-            },
-            {
-              "index": 26,
-              "level": 2,
-              "name": "26.",
-              "id": "26",
-              "children": []
-            },
-            {
-              "index": 27,
-              "level": 2,
-              "name": "27.",
-              "id": "27",
-              "children": []
-            },
-            {
-              "index": 28,
-              "level": 2,
-              "name": "28.",
-              "id": "28",
-              "children": []
-            },
-            {
-              "index": 29,
-              "level": 2,
-              "name": "29.",
-              "id": "29",
-              "children": []
-            },
-            {
-              "index": 30,
-              "level": 2,
-              "name": "30.",
-              "id": "30",
-              "children": []
-            },
-            {
-              "index": 31,
-              "level": 2,
-              "name": "31.",
-              "id": "31",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },

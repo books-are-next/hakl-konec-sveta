@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-## 1.
+**1.**
 
 V okamžiku, kdy jsem se pustil do špaget, zarachotil klíč a předsíň se naplnila šramotem a smíchem. Řípa přivedla tři Dány, které potkala někde v hospodě; dva ospalé blonďáky a jednoho na první pohled ostrého chlapíčka s vybroušenýma kotletama; tak vybroušené kotlety jsem v životě neviděl. Tenoučké jako břitva. Hned začal chodit po bytě, všechno si prohlížel, chrastil mnohými náramky, řetízky, cvakal podkůvkami špičatých bot, plácal mě po zádech a chválil: „Dobře žiješ! Sereš na ně! To se mi líbí!“
 
@@ -55,7 +55,7 @@ Na rozloučenou mě trošku zboxoval: „Honza! Odpočiň! Až přijde čas, my 
 
 Protože se běžně vyjadřoval v podobenstvích, bral jsem to jako podobenství.
 
-## 2.
+**2.**
 
 Řípa volala z Holandska, že tam potkala Holanďana, který celé týdny sedí ve svém domě na pobřeží v „hudebním pokoji“ a skládá muziku. Pustila mi ukázku; po telefonu to znělo jako šíleně rychlá fašistická dechovka k pivu, jako kvapík, při kterém se tragicky zmalovaní klauni v zakouřeném kabaretu navzájem kopají do zadku. Pochválil jsem hudbu a zeptal se, jestli to znamená, že už k sobě nepatříme. Řekla, že bohužel ano.
 
@@ -187,7 +187,7 @@ Já vím. Evropa… Ten biedermeierový pokoj pro hosty, pokoj s kafíčkem na 
 
 Husta mlčel a vyráběl si ze sirky párátko.
 
-## 3.
+**3.**
 
 Nakonec si ze mě udělali objekt, na který se už bez přestání upínaly jejich zbystřené senzory. Začínalo to být chorobné. Registrovali i nejdrobnější gesta. Stačilo si odkašlat: „Hm-m-m!“ nebo si krátce povzdechnout, případně několik vteřin nepřítomně zírat z okna, a už jsem viděl, jak po sobě významně pokukují. Všechna má přání znali dřív než já. Veškerá přání byla předem splněna.
 
@@ -241,7 +241,7 @@ Druhý se zapojil: „Ale moh to řekněme bejt,“ použil psychologii z pří
 
 Ze židle na mě vyčítavě hleděl Hustův oranžový medvěd. Hodil jsem ho do kouta. Žuchnul na zem, ani nezamručel.
 
-## 4.
+**4.**
 
 Příští večer se ozvalo nesmělé zazvonění. Ležel jsem v posteli, srkal fernet s ledem a díval se na televizi. Dávali nějaký horor. Jeden z hrdinů filmu narazil v předsíni na neobyčejně velkého a tlustého červa. Červ se mátoživě vztyčil. Dosahoval až k lustru.
 
@@ -325,7 +325,7 @@ Husta zničehonic zvadnul: „Jo. Jo. Klíče do schránky. Měj se tu hezky, Ho
 
 Rychle jsem se s nimi rozloučil a rychle odešel. Kdybych to ne­udělal, bylo jasné, že by mě bez problémů ukecali.
 
-## 5.
+**5.**
 
 Dal jsem si pivo za rohem a neměl žádnou představu o tom, co udělám, jestli tam ještě budou, až se vrátím.
 
@@ -439,7 +439,7 @@ Pár dní jsem ji hledal. Prošel jsem Parukářku, Krejcárek, Židovské pece,
 
 Vrátil jsem se domů, otevřel si pivo a rozpolcen výčitkami svědomí jsem usnul. Poprvé za život jsem spal dvacet hodin v jednom kuse.
 
-## 6.
+**6.**
 
 V koutě pořád ještě seděl ten medvěd. Vzal jsem ho za ucho a přemýšlel, komu bych ho tak dal. A jak jsem ho uchopil, přišlo mi, že má nějak neobvykle umístěné těžiště. A jak jsem ho tak obracel v ruce, přišlo mi, že je nějak těžký, na plyšáka. A když těžký, tak mi přišlo, že by uvnitř mohlo být něco, co tam původně v rámci medvěda nebylo. A když nebylo, tak co? Ohmatal jsem mu břicho, vzal nožík a opatrně ho načnul. Hleděl na mě navýsost překvapeně. Stačilo pár lehkých řezů a už jsem to viděl… Zevnitř se vyvalil důkladný, dvojitý igelitový pytlík, naplněný jakýmsi bílým práškem.
 
@@ -451,7 +451,7 @@ Nevzrušoval mě ani tolik ten prášek jako takový; koneckonců jsem před dá
 
 Jak tady mohl Husta nechat svoje médium, to mi nešlo na rozum.
 
-## 7.
+**7.**
 
 Potom se ze světa vrátila Řípa. Přivezla s sebou dva Holanďany; dvoumetrového uhrovitého chlapíka a jeho dívku, ostře zrzavou kikinu, která se na všechno vyptávala: „Byl jsi někdy v Bouloňském lesíku?“
 
@@ -483,7 +483,7 @@ Tři hodiny jsem byl tak napumpovaný kofeinem, že jsem se paradoxně nemohl an
 
 Řípa odjela s nimi. Tím mi definitivně zmizela ze života. Pravda je, že ty dva roky s ní měly něco do sebe; uměla vymýšlet opravdová překvapení… Jednou když jsem byl pár dní pryč, mi vymalovala celý byt na černo. Včetně stropů. Je nemožné popsat prostor, do kterého jsem po návratu vstoupil. Připadal jsem si jako nováček na onom světě. Jako návštěva v hrobě. Řípa bloudila bytem a popotahovala, protože mi nemohla nevidět na nose, jak se mi to líbí. Pár dní jsem v tom vydržel. Každé ráno jsem hned po probuzení šel rovnou k oknu, odhrnul záclonu a pozoroval ulici, abych měl vůbec sílu začít fungovat; abych měl sílu jít si čistit zuby do černé koupelny a dát vařit vajíčka do černé kuchyně. Venku probíhal život. Nikdy jsem k němu neměl přehnaně vřelý vztah; teď mi najednou připadal krásný, lehký, světlý… a já jsem do něj nahlížel z jedovaté hmyzí díry. Nakonec jsem vzal špachtli a začal to seškrabovat. A teprve teď mě čekalo to hlavní překvapení: Řípa vymalovala latexem. Pečlivě. Na zákoutí skrytá za plynovými trubkami si vzala zárohák. Čtrnáct dní jsem tenkrát visel na štaflích pod stropem a odškrabával centimetrové lupínky.
 
-## 8.
+**8.**
 
 Vlastně se objevila ještě jednou… To už byla doma někde v té západní Evropě, kde se spontánně zakuklila, za půl roku kukla praskla a z přítulného jedináčka z Malešic se vyklubalo přemoudřelé, afektované, citově osekané monstrum.
 
@@ -517,7 +517,7 @@ Jenomže Hustu i jeho kamarády jsem vyrazil. Všichni, kdo za něco stáli, od
 
 Když jsem ze Žofína odcházel, hnala se v protisměru houkající sanitka. Zahnula na most a s blikajícím světlem zarazila před vchodem.
 
-## 9.
+**9.**
 
 Noc předtím, než odjeli, jsem nemohl usnout; seděl jsem u okna, kouřil a díval se na měsíc. Ozvalo se odkašlání. Z kouta na mě hleděla nosatá dívka: „Taky nespíš…?“
 
@@ -575,7 +575,7 @@ Pak jsem se procházel po chorobně uklizeném kvartýru a povídal si s mrtvo
 
 „Tak pozdravuj,“ ozvala se babička. Zapomněla říct, koho. A tím to skončilo.
 
-## 10.
+**10.**
 
 Potom už to šlo rychle. Zábavné bestie, démoni, samotářské šelmy a smutní podivíni zmizeli a místo nich se objevili vtipní, dobře oháknutí vrabci. Na každou z kamarádek, se kterými jsme do té doby chodili na dvojku my, se nalepil nějaký cizinec. Pravda je, že některým se nedala upřít určitá dávka zajímavosti.
 
@@ -621,7 +621,7 @@ Ráno už zase svítilo slunce. Někdo se chtěl s Angličanem mermomocí vsadi
 
 My ostatní jsme nikam nespěchali. Otevřeli jsme láhve, na které večer nedošlo, a šli jsme se znovu vykoupat. Potom jsme jen tak leželi na schnoucí trávě. Nikdo nic neříkal. Ve vzduchu plulo chmýří. Po jezu přecházelo husím pochodem šest parchantů v teplácích, s plechovkami a s rybářskými pruty.
 
-## 11.
+**11.**
 
 Půl roku poté jsem šel Mosteckou ulicí. Bylo to v době, kdy skoro všichni známí na čas zmizeli v cizině. Byl konec léta a Praha zela prázdnotou. Po ulicích už chodili jenom samí cizinci. Na připáleném hřbetě Petřína podřimoval Památník písemnictví a špičky Emauz páraly neproniknutelnou oblohu nad nábřežím jako hadí zuby.
 
@@ -633,7 +633,7 @@ Pak jsem jí vykládal zase já, co se tu za tu dobu přihodilo. A protože jse
 
 Od toho dne jsme to tak dělali skoro osm let.
 
-## 12.
+**12.**
 
 Jednoho dne Renata hrála někde v centru na flétnu. Ona a několik dalších. Hráli a zpívali. Byl to tenkrát takový nový způsob, jak si přivydělat. Hráli, zpívali, potkávali známé a chlastali s nimi.
 
@@ -747,7 +747,7 @@ Aha… Realita se dotkla břehů papírové Lhasy. Od radlické lávky dlouze za
 
 Nahoře na patře se mezitím uklidnili. Možná proto, že už všechny flašky roztřískali. Teď odtamtud zněl klidný rozhovor, kašel a jakési tichounké fňukání. Vypadalo to, že večírek pomalu končí.
 
-## 13.
+**13.**
 
 V okamžiku, kdy jsem se pustil do špaget, zarachotil klíč a předsíň se naplnila šramotem a smíchem. Zaklapl jsem knihu, ve které jsem si při jídle listoval. Vzápětí jsem si uvědomil, že pochechtávání nezní z mé předsíně, ale vedle od sousedky. Znovu jsem otevřel knihu: _„V Indii loví ještě jiné divoké zvíře: jednorožce, jenž je trupem podobný koni, hlavou jelenovi, nohama slonovi a ocasem kanci. Ryčí neobyčejně silně; uprostřed čela mu trčí dlouhý černý roh. Popírá se, že by bylo možno ho dostat živého…“_
 
