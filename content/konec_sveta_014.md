@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-## 1.
+**1.**
 
 Kdysi jsem jel tramvají do Strašnic. Měl jsem za sebou několik těžkých nocí, a tak jsem si sedl na sedačku pro invalidy, protože jinde nebylo místo. Na protějším sedadle hřadoval zamračený dědek. Na hlavě měl nabořenou tlustou placatou čepici a pod kšiltem nos jak bramboru, pokrytý plísní žilek. Od chvíle, kdy jsem dosedl, mě upřeně pozoroval; civěl mi rovnou do očí zvláštním, spodním pohledem. Zkusil jsem se dívat z okna, ale z dědka šlo něco, co mě doopravdy vyvádělo z míry; vždycky když jsem se neudržel a mrknul tam, mě obešla nová hrůza. Zapichoval do mě oči s čistou, rakevní nenávistí. Ohlédl jsem se, jestli vedle mě nestojí zchvácená baba s dítětem, jestli nade mnou neomdlévá vyčerpáním nastávající matka, jestli snad slepec nebo mrzáček… Ale tramvaj teď byla poloprázdná.
 
@@ -13,7 +13,7 @@ Najednou jsem si uvědomil, že se na mě úporně tlačí koleny. Odtáhl jsem 
 
 Trvalo to dobře deset stanic. Pak sebou v zatáčce tramvaj hodila na vymletých kolejích, dědek se toporně opřel ramenem o sklo, a mně to došlo… Musel být po smrti, už když jsem k němu na Míráku přisedl. Svezl se na stranu a civěl na mě dál. Na první zastávce jsem rychle vystoupil, ale ne dost rychle, abych přeslechl: „Ježišmarjá… prosimvás, tady tomu pánovi asi něco je… zazvoňte tam někdo rychle na řidičééé!“
 
-## 2.
+**2.**
 
 Pracoval jsem tenkrát ve vodárně na samém konci Libeňského ostrova. Po setmění tam zpívali v korunách říčních topolů slavíci tak, že z toho každého, kdo to poslouchal, začalo do minuty píchat v mozku. Z kovového hvízdání slavíků a s bahenním puchem a smradem spáleniny prosyceného, divokého městského vzduchu.
 
@@ -27,7 +27,7 @@ Koukám. Bulovka stojí. Vodárna stojí. Na nebi nic, jen rackové. Otočil jse
 
 Příští den jsem napsal na oranžovém psacím stroji značky Consul výpověď.
 
-## 3.
+**3.**
 
 Půl roku předtím se mnou začal sloužit směny ve vodárně Zdeněk. Mazdu otevřel drátkem za pár vteřin, patentní zámek do minuty. Na škodovku mu stačilo dejchnout a otevřela se sama. Měřil metr sedmdesát, ale chodil zvláštním houpavým krokem a ruce nosil ranařsky od těla, takže to zdálky vypadalo, že je o hlavu vyšší. Bylo mu devatenáct. Nosil neproniknutelné černé brýle, které odkládal, jen když se s nohama na stole díval na televizi, a někdy ani to ne. Prostě Zdeněk. Zdeňka navštěvovali kamarádi, kteří se dělili na dvě skupiny: ti veselí a ukecaní, to byli taxíkáři. Ti vždycky přinesli flašku a dalo se s nimi tak půl hodinky mluvit. A pak tam chodila partička stěží dvacetiletých, kteří si byli nápadně podobní: pomenší, obrostlí sádýlkem, nakudrnacené světské vlásky, venku barevnej auťák bez papírů, pod bundou černá bouchačka bez papírů. _Číhej, vole!_ Šikovný, čórkařský dorost. S těmi prvními Zdeněk mluvil, jak mu zobák narost. Co se týkalo těch druhých, dával přednost hlasitě vyráženým citoslovcům a drobným rychlým gestům; snažil se zakrýt, že je ve střehu.
 
@@ -53,7 +53,7 @@ Zato příští den se ke mně přitočil, a ačkoliv jsme tam byli sami, spust
 
 Sevřel mi ruku: „Helejte, rači néé! Helejte, nikde vo tom nemluvte, že tady bylíí, vono je to tak lepší! Nikde vo tom nemluvté, a bude pokój! Jóó, panebenéš! A bude pokóój! Jóó,“ šeptal mi můj nadřízený.
 
-## 4.
+**4.**
 
 Sloužili jsme ranní, odpolední a noční. Během nočních se čas od času stávalo, že zazvonil telefon, Zdeněk poslouchal, říkal „jasněé, jasněé,“ pak zastrčil jazyk, zavřel pusu, nasadil černé brýle a vypařil se. Za hodinku bouchly dveře od auta a na chodbě se rozlehl smích: přijeli tři, a s nimi starší ženská, tak pětatřicet, voňavá mamina ze sídliště. Vlasy jak beránek, semišové sáčko, praktická jednoduchost z ní přímo čišela. Zdeněk mi stranou pošeptal: „Má dobrý nohy, helé, my jí mrdáme ve třech, frajeré, ta když se namaže, tak kouří jak vzteklá… Jestli chceš, tak tady zustaň s náma…“
 
@@ -67,7 +67,7 @@ Za chvíli se za zatáčkou rozzářila světla autobazaru. A už jsem zaslechl
 
 Pokračoval jsem podél počmáraných ohrad k Palmovce. Po­trhaným pletivem plotů prorůstaly kvetoucí zlaté deště. Mezi kandelábry a dráty trolejí matně pableskovala koule libeňského plynojemu. Zapálil jsem si a pozoroval tu optimistickou kopii zeměkoule. I kdybych měl být na světě sto let, nikdy mi tenhle svědek jalového kosmického nadšení prošlých časů, ten ideový předskokan sputniku nemůže zevšednět… Potom jsem zahnul pod viadukt a šel k Horkým na pivo.
 
-## 5.
+**5.**
 
 U Horkých seděl nad poškrábaným stolem jeden postarší chlápek, kterého jsem znal. Patřil mu hausbót, se kterým od jara do podzimu popojížděl po slepých ramenech Vltavy. Občas zakotvil na břehu pod vodárnou a pozval mě na lahvové, které chladil v síťovce, spuštěné do vody. U lahvového jsme si povídali.
 
@@ -81,7 +81,7 @@ Byl jsem rád, že ho tu vidím; měl jsem po krk všech mladých na celém svě
 
 Chlápek držel skleničku s kořalkou, kvrdlal s ní sem a tam a byl skleslý. Přisedl jsem si k němu. Chlápek mlčel. Po chvíli se svěřil, že mu minulý týden ožralí motorkáři ustřelili brokovnicí komín od hausbótu. Znal jsem ten komín dobře; pocházel z parního válce, byl natřen na černo a byly na něm dva jasně červené pruhy. Je pravda, že jenom díky tomu historickému funelu vypadal jeho hausbót, na rozdíl od těch ostatních kredencí, jako opravdová loď. Dole byla ke komínu přinýtována mosazná cedulka, na které stálo, že byl vyroben, včetně zbytku válcovačky, roku 1934 u firmy Krauss Maffei. Muž tu cedulku leštíval zubní pastou, aby se pořádně leskla.
 
-## 6.
+**6.**
 
 Jedna zkušenost ale Zdeňkovi scházela. Mezi pohvizdováním a pís­káním skrz zuby se mi jednou přiznal, že ještě nikdy nebyl „za kurvama“: „Mohli bysme někdy zajít, ne!“
 
@@ -91,7 +91,7 @@ Jedna zkušenost ale Zdeňkovi scházela. Mezi pohvizdováním a pís­káním 
 
 Považoval jsem to za nezávaznou frázi: „Tak jo.“
 
-## 7.
+**7.**
 
 Ten týden, kdy jsem dal výpověď, bylo shodou okolností po výplatě. Zdeněk se na mě už zdálky smál: „Tak helé, frajeré, je to zařízený! Máme to zamluvený! Tak né, že se na mě zas vykašleš, počítám s tebou na sto procent…“
 
@@ -135,7 +135,7 @@ Rozhovor s Miladou plus kulečník plus pití mě stály šest tisíc. Zaplatil
 
 Domů jsem dorazil ještě včas, abych si stihl dát sprchu a kafe.
 
-## 8.
+**8.**
 
 V půl osmé ráno jsem usilovně vzpomínal, jak se váže kravata. Léta jsem ji měl předem připravenou s pečlivě uvázaným uzlem, stačilo nasadit a utáhnout. Uzel se ale díky nešetrné manipulaci sesmekl. Teď jsem vzpomínal na ten trik z tanečních. Světlo za oknem bolestivě pulzovalo.
 
@@ -169,13 +169,13 @@ Cestou zpátky kolem viaduktu jsem si koupil za poslední peníze placku fernetu
 
 Měl jsem přesně tři dny na to, abych si ještě užil klidu a nicnedělání.
 
-## 9.
+**9.**
 
 Doma jsem zapnul televizi. Běžel tam dokument o žralocích v pobřežních vodách Austrálie. Žabí muži se zevnitř drželi otřískaných mříží klece, šlapali vodu a rozhlíželi se. Nějaký profík k tomu četl medovým hlasem infantilní komentář. Chvíli se nic nedělo. Najednou se z černé prázdnoty vylouplo pětimetrové hovado s otevřenou dračí hubou a se skřípěním se otřelo o zprohýbanou mříž. Potápěči se ztuhle otáčeli a s ohledem na běžící kameru, a taky kvůli zbytku sebeúcty vystrkovali ruce z klece, aby se dotkli tvrdé kůže prázdnookého, pažravého strejce, aby polaskali třítunový podmořský mlýn na maso v okamžiku, kdy se převaluje kolem nich. Aby pak měli tam nahoře, v bezpečí, nad barevnými fotkami o čem žvanit, co přehánět a pro co žít…
 
 Dorazil jsem štok a kravatu hodil zpátky do šuplíku.
 
-## 10.
+**10.**
 
 Blikající automat mysli mi mechanicky nabídl vzpomínku, kdy jsem měl tuhle kravatu naposled na krku… Budou to dva roky, co jsem si jel do Strašnic vyzvednout urnu s matčiným popelem. Matka milovala, když jsem se jednou dvakrát za rok přistrojil do sáčka a do kravaty, vždycky na její žádost a vždycky kvůli špatnému svědomí, protože neměla tušení, že to, co jí na mně „přivádělo do hrobu“, byl jenom zlomek toho, co jsem tenkrát doopravdy vyváděl.
 
@@ -217,7 +217,7 @@ Vypnul jsem televizi ve chvíli, kdy filmaři spustili do vody bezvládnou, klá
 
 Za tři dny jsem si pořádně vyčistil zuby a šel do práce.
 
-## 11.
+**11.**
 
 Tak jsem se stal pracovníkem v reklamě. S nějakým Špitzem, se kterým jsem sdílel kancelář s výhledem do dvora, jsme se každý den skládali na láhev finské vodky. Kupovali jsme ji u stánku, přilepeného k viaduktu. Prodavač, vychrtlý vousatý chlápek s tváří jak podrápanou od bagru, postával každý den před stánkem, špinavý bílý plášť kolem něj práskal ve větru, a když jsem ho míjel cestou do práce, nikdy to nenechal bez nadšeného komentáře.
 
@@ -249,7 +249,7 @@ Následující den jsem ho potkal na chodbě: „Nazdar!“
 
 Začínal jsem tušit, že to takhle nemůže jít věčně.
 
-## 12.
+**12.**
 
 Špitz trpěl neutuchající hrůzou, že z něj ředitel jednoho dne ucítí chlast. Směl ho veřejně oslovovat „Karle“ a uměl si toho vážit. Věděl, že může být o tuto výsadu kdykoliv připraven. Nedovedl si představit, jak by se potom mohl ostatním podívat do očí. Musel se každou chvíli napít, aby se z toho všeho nesesypal. K tomu polykal nějaké mentolové pastilky. Probíhalo to tak, že si dal hlt a hned do sebe nasypal hrst pastilek, ale za dvacet vteřin už si nemohl vzpomenout, jestli si vzal, nebo ne, a tak si vzal zas. Byl cítit jako apatyka. Když měl jít k řediteli, stal se z toho celý obřad. Nesčíslněkrát se mě ptal, zda mu netáhne z huby, dělal dřepy, aby se uklidnil, prováděl dechová cvičení a i jinak se choval, jako by šel na rande.
 
@@ -267,7 +267,7 @@ Jednou si cestou z nějakého takového podniku koupil za neuvěřitelné prach
 
 Druhý den dopoledne mi v práci u kafe s bytostně provinilým, nešťastným výrazem ukazoval ty fotky… Před sektorovou stěnou tam na kovralu klečel zarudlý naháč, spoutaný řemínky. Tlustý, okšírovaný mnich tam dřepěl pod fíkusem. Odulý Špitz tam bolestínsky hleděl přes rameno a špulil do objektivu sukovitý zadek s hluboko zaříznutými popruhy. Obrovská, melancholická, bolestně se usmívající bárbína. Potom zas detail uraženě se tvářícího pinďoura, přiškrceného jakýmsi obojkem. Až neuvěřitelně připomínajícího mrtvé ptačí mládě, vypadlé z hnízda. Na konci série pak bylo několik obrázků předčasně probuzené, o pět let starší, usedavě plačící blond manželky s rudýma očima. Byl to ten nejpravdivější dokument o životě, jaký jsem kdy viděl.
 
-## 13.
+**13.**
 
 Pak přišel den, kdy se dostavilo první opravdové delírko.
 
@@ -305,7 +305,7 @@ Kolem jel taxík. Vsedě jsem na něj zamával. Kupodivu zastavil. Měl jsem na 
 
 Rád bych mu to byl vysvětlil. Zkusil jsem promluvit. Nešlo to. Tak jsem mu jenom ukazoval, kudy má jet. Mávl jsem doprava, odbočil doprava. Píchl jsem prstem do Velkého vozu na nebi, jel rovně. Ukázal jsem doleva. Byla tam dlouhá řada domů a žádná odbočka. Pochopil to a jel pořád rovně. Nakonec mě dovezl domů. Nemohl jsem si vzpomenout, jak se vystupuje z auta. Trpělivě mi to vysvětlil. Dokonce mě ani neokradl při placení.
 
-## 14.
+**14.**
 
 Pak se dny rychle začaly podobat jeden druhému. Začaly se sesouvat do sluncem prozářeného, fantastického bezčasí. Myslel jsem, že je středa, a ona byla neděle.
 
@@ -317,7 +317,7 @@ Měl jsem v té době nové tělo; plochý, trochu, pravda, vymaštěný oblič
 
 Vydržel jsem to přesně rok. Potom jsem napsal na počítači značky Macintosh výpověď.
 
-## 15.
+**15.**
 
 Několik týdnů jsem odpočíval a nedělal vůbec nic.
 
@@ -339,7 +339,7 @@ Když jsem se vrátil, chtěl jsem si s někým pohovořit, chtěl jsem si popo
 
 Všichni mlčeli, a nejvíc Fanda. Po dlouhé době povídá: „A tim mi chceš jako říct, že si Plzeňácí nemejou voknááa?!“
 
-## 16.
+**16.**
 
 Radka nosila bubikopf, onen prvorepublikový výboj nezávislosti v mezích zákona, onen na lékárnických vahách vyvážený výraz měšťáctví a zároveň sklonu kurvit se, což k sobě ostatně patří. Nosila vzadu vysoko rovně seseknuté vlasy a pod nimi vyholený krk, a vepředu jí zrzavé chrouny lezly do obličeje. Ten vyholený jugendstil na zátylku, to rafinované předstírání ochoty být znásilněna krutým světem, ten koketní žlábek, ten mě ničil vždycky… Ale Radka, ta byla taková do hloubi duše. Měla sklon přivádět sama sebe do situací, které jí působily všechny druhy psychické i fyzické bolesti. Její styl se jmenoval „donucena…“. A protože měla navíc tělo jako loutka od Trnky, tenké tělo krejčovské panny, propadl jsem se do toho hůř než kdy předtím. Spát s ní se podobalo sebevraždě.
 
@@ -395,7 +395,7 @@ Za pár dní jsem se dozvěděl, že to není nic vážného. Šetřit se, nepí
 
 Nic z toho jsem vlastně nedodržel.
 
-## 17.
+**17.**
 
 Když mi za nějakou dobu došly peníze, přišel čas prodat ty perlové náhrdelníky, které matka celý život úzkostlivě opatrovala v zamčeném šuplíku a jen jednou za čas, při zvláštních a významných příležitostech, je vytahovala a říkala: „Prosimtě, Honzo, teď mě ale vopravdu poslouchej, heleď, tohle jsou _perly__,_ v tom je celý jmění! Až tady nebudu, nech mě domluvit, až tady nebudu, tak si je vem k sobě, a ne abys je hned prodal nebo někomu dal, nech si je a prodej je, až to budeš nutně potřebovat, jednou budeš mít taky rodinu… A nezapomeň, jakou maj cenu, sežeň si někoho solidního, kdo ti je napřed odhadne, rozumíš!“ Použil jsem tedy všechny známé, abych sehnal někoho solidního. Nebylo jednoduché sehnat specialistu na tenhle druh šperků. Perly, rekvizita z potápějícího se Titaniku, koho to dneska zajímá. Nakonec byl osloven majitel starožitnického krámu na Starém Městě. Kapacita, prý. Znalec, který hned tak s někým neztrácí čas. Byl jsem ohlášen, pozván a očekáván.
 
@@ -429,7 +429,7 @@ Vyšel jsem na Národní. Napadlo mě, že bych ty šňůry mohl dát nějaké m
 
 Tak jsem je hodil do popelnice.
 
-## 18.
+**18.**
 
 Přišlo léto a podrážky bot se začaly lepit na asfalt. Pořád jsem nikde nepracoval. Každé pondělí jsem si říkal: Ještě tenhle týden, poslední, a pak už vážně…
 
@@ -471,7 +471,7 @@ Na vteřinku mě napadlo, jestli mi tam na tom stromě zkrátka a dobře nepře
 
 A tak jsem se dál držel své kývající se pozorovatelny, něco drmolil, lil do sebe štok a viděl všude kolem sebe, že evidentně nastává soumrak pojmů.
 
-## 19.
+**19.**
 
 Za hodinku probleskly mezi spletenými keři reflektory. Slezl jsem dolů a rychle na sebe naházel hadry. Pod svahem dutě buchly dveře a ozval se radostný štěkot. Byla naprostá tma, ale psí oko se nenechalo zmást; spíš jsem tušil, než viděl, jak ke mně směřuje trávou černé torpédo, a hop! Musel jsem drbat na břiše, musel jsem drbat za krkem.
 
@@ -521,7 +521,7 @@ Z vrcholu hory trčel sloup a na něm byla připevněna plechovka. V plechovc
 
 Chvíli jsme tam nahoře ještě lelkovali. Potom jsme stejnou cestou slezli a jeli se podívat, jak to vypadá v zatopených pískových lomech u Mělníka.
 
-## 20.
+**20.**
 
 Večer jsem seděl s Danou U Samsona a povídali jsme si o životě. Dana do sebe kopla pivo: „… hele, ale co je na tom zajímavý, je, že šimpanz má skoro devětadevadesát procent genů stejnejch jako člověk…!“
 
@@ -577,7 +577,7 @@ Rameno tupě bolelo. Napadlo mě, že měla nejspíš pravdu… Že každý, z 
 
 Později jsem si přečetl v časopise 100+1, že šimpanz má 98,4 % genů stejných jako my, lidé.
 
-## 21.
+**21.**
 
 Každé ráno jsem si šel koupit cigarety a noviny; doma jsem si zapálil, lehl si do postele a četl inzeráty. _Time-sharingová společnost hledá sales managery se zkušenostmi v této oblasti. Volejte 602… Mezinárodní firma hledá spolupracovníky, p. Tvrdý, mobil: 0603… Znalecký ústav hledá specialistu pro oceňování nemovitostí, oceníme chuť používat moderní metody oceňování…_
 
@@ -607,7 +607,7 @@ Mluvní aparát zareagoval bez asistence mozku: „Ano…“
 
 Nikdy jsem nezjistil, jak je možné, že když sedím o tři patra níž na hajzlu, jsem zticha jako pěna a prohlížím si ef šestnáctku, že o tom Svoboda ví.
 
-## 22.
+**22.**
 
 Paní Olczak byla vdova po námořním kapitánovi. Bydlela v klidné čtvrti na okraji Gdaňska, v domě, na jehož stěnách visely staré obrazy, šavle, diplomy a jiné námořní a důstojnické relikvie.
 
@@ -643,7 +643,7 @@ Najednou jsem uviděl, jak se ze tmy vyloupl stín. Nějaký hubený chlapík š
 
 Raději jsem ještě chvíli počkal; neměl jsem chuť někde na policii v Sopotech vysvětlovat, co to mělo znamenat. Odpovídat na rozčilené otázky, čí že je to krev. Čekat do rána, až provedou rozbor. Když jsem měl alespoň přibližnou jistotu, že ta podivná příhoda nebude mít pokračování, vydal jsem se pomalu zpátky k pavilónu. Na osvětleném pódiu teď stála žertovně ohozená kapela; buřinky, sáčka, pruhovaná trika, bendža, saxofony. U mikrofonů se vlnily tři zubaté krasavice, točily do rytmu fialovým boa a zpívaly: _„V prosektóóóóóóóriu najpěnknějše jest nad ranem… časem cuš spadnie se stola… časem ktuš…“_
 
-## 23.
+**23.**
 
 Potom jsem čtyři měsíce jezdil přes půl Prahy za Petruší.
 
@@ -735,11 +735,11 @@ Vrátil jsem se domů, lehl si do postele a začal číst Plechový bubínek od
 
 Pořád ve mně ještě dozníval ten nepodložený optimismus. Jsem přece _spolumajitel__,_ říkal jsem si. Nemůžu chcípnout hlady uprostřed kvetoucí zahrady, říkal jsem si.
 
-## 24.
+**24.**
 
 Až když jsem pak jednou přišel do naší firmy a uviděl našeho ředitele, jak obědvá krajíc týden starého chleba a zapíjí ho kečupem, musel jsem to konečně definitivně přehodnotit. Ten rok se nás peníze zkrátka nedržely. Až mnohem později mě napadlo, jestli to náhodou nebyl hlavní důvod, proč to s Petruší neklapalo.
 
-## 25.
+**25.**
 
 Skončilo to tím, že jsem si našel práci. Byla to další reklamní agentura. Hned vedle baráku, kam jsem teď už zase denně v půl deváté vstupoval, rekonstruovali starý činžák. Jednoho dne byl ten dům hotov. Fasáda voněla čerstvou zedničinou. Podél chodníku se táhla řada oken, jenže ta okna byla slepá; byly to mělké, zasklené výkladní skříně. Další den všechny ty výklenky vytapetovali pečlivě nařaseným, jakoby zmačkaným černým igelitem. Nad vchod upevnili ostře červený a fialový neón; nebylo možno přečíst, co se na něm píše. Jakési tenké, pavoučí klikyháky. A další den, když jsem šel do práce, jsem už zdálky viděl, že jsou ty černé výklenky plné barevných fotografií. Šel jsem blíž. Byly tam fotky zpěvaček, veselých kabaretních námořníků, smíchy přímo zešílevších konferenciérů, mračících se naolejovaných kulturistů a falešných Elvisů. Zpěvaček bylo daleko nejvíc. Jedna vedle druhé to byly už postarší veteránky zakouřených barů, naondulované, odbarvené, s vyoperovanými slinivkami, v lesklých toaletách. Samé periferní Špinarky. Umělkyně, nad kterými se už už zavírala voda. Jel jsem, fascinován, očima po těch životem popsaných tvářích. Vtom ve mně hrklo: spatřil jsem mezi nimi svoji matku. Otvírala tragicky zmalovaná ústa a chystala se polknout mikrofon s ohromnou bambulí. Byly vidět plomby, byla vidět vytržená čtyřka a pětka vpravo dole, všechny můstky, byly vidět slinami potažené, chorobně rudé mandle. Věděl jsem, že to nemůže být matka. Ale viděl jsem, že je to přesně ona. Výraz, vlasy, oči, všechno. Do puntíku. Zneklidněn jsem pokračoval v cestě do práce; už tak jsem šel pozdě.
 
@@ -779,11 +779,11 @@ Mlčela. Asi ty polomáčenky patřily k jejím povinnostem. Cítila, jak jí b
 
 V téhle firmě už existoval na výpověď formulář. Stačilo vyplnit příslušné kolonky, podepsat se, obejít všechny místnosti a potřást všem rukou.
 
-## 26.
+**26.**
 
 Z polomáčenek jsem si léta dělával takový chlebíček… polomáčenka se namaže máslem, na to se položí další polomáčenka, na ni zase máslo, atakdále. To celé 5–6krát. Vzniklou kostku je možno nadvakrát nacpat do úst. Radost z takového sousta se dá jen velmi těžko vypovědět.
 
-## 27.
+**27.**
 
 Nic nepomáhalo, že jsem teď chodil jako kinoherec v naleštěných botách, že jsem se pravidelně holil. Že jsem si denně žehlil košili. Všude na mně tak nějak už ve dveřích poznali, že o tu jejich práci ve skutečnosti nestojím. Někdy jsem měl pocit, že to mám přímo napsáno na čele. V těch lepších případech. V těch horších jsem měl dojem, že se stávám pro určité lidi neviditelným. Tvářili se nemístně přívětivě a nemístně ochotně slibovali přibližně mým směrem, že tedy ano, že to zkusíme. Jenomže ta jejich řeč nápadně připomínala samomluvu. Tvářil jsem se, že ano, že moc děkuju. Ale věděl jsem, že nezavolají. Že si oddechnou, až za mnou zaklapnou dveře.
 
@@ -805,7 +805,7 @@ Jestli jsem si mohl být vůbec něčím jistý, tak jedině tím, že budoucnos
 
 S konečnou platností jsem to pochopil, když se ke mně Na Slamníku přitočil Richard Tymeš, živé zrcadlo umírající doby, zametl mi nos fousama, vyzářil na mě svou denní dávku česneku a povídá: „Pa… panáčku, ko… nečně se mi líbíš… tyyy… tys byl dycky takovej cizí, jako dybys byl mi… mimo, a teď seš konečně tady, há, há… rozumíš!“
 
-## 28.
+**28.**
 
 Celé dny jsem chodil po bytě sem a tam, sem a tam. Zevrubně jsem pozoroval kuchyň. Kuchyň vypadala jako záběr kamery na město z bombardéru ve chvíli, kdy se už otevřely dveře pumovnice a ježíšek se sype dolů. Pozoroval jsem pokoj. Pokoj vypadal jako pohled z batyskafu na vrak lodi, zapadávající bahnem dva kilometry pod hladinou. Vzal jsem namátkou knihu z knihovny a otevřel ji. Kniha se nějak jmenovala a někdo ji napsal. Byly tam spousty popsaných stránek. Všude se hemžila písmena. Vůbec jsem nepochyboval o tom, že něco znamenají.
 
@@ -825,7 +825,7 @@ To mě trochu udivilo: „Jak, mladej! Zemlbábu mám rád!“
 
 Tak jsem šel s Jířou ven.
 
-## 29.
+**29.**
 
 Potom jsme chodili s Pavlikem křížem krážem po Letné. Pavlik šel od jednoho těžkého splínu k druhému a všechny ty jeho splíny měly jeden a ten samý kořen, a sice ženské. Naprosto bez nich nemohl existovat. Každé, kterou potkal, položil k nohám rovnou všechno: srdce, čas, budoucnost i veškerou naději, které byl momentálně schopen. Měl skrz naskrz galantní povahu. Jenomže mu ta bezvýhradná oddanost vždycky vydržela jenom pár dní, někdy i týdnů, a potom nastal kolaps, protože se mu připletla do cesty další ženská a jemu se zazdálo, že mu už zase někde něco uniká… A protože Pavlik nebyl cynik, tak ho to pokaždé, to jest bezmála pořád natvrdo žralo a rozežíralo. Díky tomu měl neobyčejně vytříbený smysl pro přítomnost. Uměl si vážit každé minuty, kdy po něm zrovna nikdo nic nechce. Platil troje alimenty. Nikdy se nelitoval. Nevedl řeči o životě, o sobě, o stavu duše. Instinktivně neměl rád nikoho, kdo přikládá moc velkou váhu slovům, protože z praxe věděl, jak hanebnou roli všechna ta slova nakonec hrají. Konverzační pětiminutovky, příležitostné radovánky, neotesané vyprávěnky. Přítomnost! To bylo hřiště, na kterém Pavlik nikdy nikoho nezarmoutil. Byla radost s ním pít.
 
@@ -835,7 +835,7 @@ Hráli jsme šipky. Kecali. Mlčeli. Sledovali jsme z okna hospody, jak zedníc
 
 Pokaždé, když už jsme pro ten den nemohli dál, jsme se uložili v nějakém bytě na koberec, přikryli se kabátem jako rodní bratři a pár hodin spali; potom jsme sešli po schodech, vyšli před barák, podívali se, kde jsme, a zamířili do Šlechtovky nebo na Spartu, protože jsme potřebovali kafe. Praha už byla dávno na nohou a po ulicích chodilo tolik tajemných krasavic všech možných barev a tvarů, až Pavlik ztrácel řeč. Chvílemi měl jasnou představu, že by se chtěl seznámit s takovou drobnější tichou černovláskou, kdyby mu trochu rozuměla; potom ale zas měl dojem, že by to mohla být třeba i vyšší blondýna, pokud by nebyla blbá a měla aspoň garsonku. Ale když proti nám po cestě ze Stromovky vyjeli dva policisté na koních – to byla tehdy taky velká novinka – a jeden z nich byla rusovlasá dorostenka v uniformě, vybavená přidrzlým nosem, metr dlouhým pendrekem a prsisky, která se v běžném občanském životě snad ani nevyskytují, tak jsme si oba chaoticky zapálili, chuť cigarety nás rychle vrátila do reality a šli jsme se podívat, jestli už otevřeli v Oboře.
 
-## 30.
+**30.**
 
 Vydrželi jsme to čtrnáct dní. A pak jsem toho najednou měl dost.
 
@@ -847,7 +847,7 @@ Stálo by za to přepadnout tohohle Wericha někde v průjezdu, omámit chlorof
 
 Ve vestibulu metra na Vltavské mi zlatovlasá dívenka strčila do ruky červený letáček. Obyčejně to vyhazuju, aniž se dívám, co tam je. Tentokrát jsem se podíval. _Museum of medieval TORTURE instruments, Colloredo-Mansfeld Pallace, Karlova 2, Prague 1, open daily 10,00–22,00__,_ stálo tam.
 
-## 31.
+**31.**
 
 Vracím se metrem domů. Ve vagónu zírají rovně před sebe dvojice, které si už všechno řekly. Pár školaček se šťastně dusí nad časopisem Dívka. Dáma se zapudrovanými vráskami směřuje do divadla, na sobě kožich, vrátili barák, syn v Kanadě, dcera za Čechošvýcara, muž prostatu jak okurku. Opodál vystavuje ušlechtilý profil mnich v kutně; nedívá se, ale hledí, zálibně po sobě pokukuje, špulí do černého skla ješitnou pusinku. Když vystupuje, kráčí středem nástupiště, uvidí studentíka, přimotá se, šlápne mu důkladnou katolickou botou na nohu a dotčeně zatroubí spravedlivým nosovým tónem: „Promiňte…“
 

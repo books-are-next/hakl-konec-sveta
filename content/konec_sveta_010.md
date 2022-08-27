@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-## 1.
+**1.**
 
 Kam až oko dohlédlo, všude se tyčily přízračně bílé, několik kilo­metrů vysoké věže. Pod nimi bublala souvislá kaše mraků. Tu a tam kolem prolétl řiďounký šál, zavlnil se a byl pryč. Venku se odehrávalo už několik miliard let víceméně pořád to samé. Láďa si zapálil a nestihl potlačit hluboký povzdech.
 
@@ -35,7 +35,7 @@ Pár dní pil a pak se z toho vyspal. Když se probudil, rozhodl se, že do t�
 
 Teď seděl v boeingu. Boeing se vznášel jako octová muška nad jezerem a směřoval do Bombaje. Za dvojitým okénkem ze silného plexiskla se pomalu sunuly vzad ledové věže, ozářené třaskavým světlem. Seděl a neměl zdání, co tam bude sám dělat. Letěl hledat své třetí oko.
 
-## 2.
+**2.**
 
 Když vystoupil po schůdkách na rozpálený beton a nadechl se, ucítil to: už i vzduch tady byl jiný. Prosycený pachem ryb a pálícího se trusu, nafty, škvařícího se polystyrénu a kdovíčeho. Přilepil se mu na patro. S námahou se nadechl a vydal se letištní halou, plnou lidí, k východu, protože jiná cesta neexistovala. Buď zpátky do letadla, nebo ven. Vyšel ven a uviděl donekonečna se rozlévající moře taxíků. Vlhko a vedro. Zastavil se a zapálil si. Rozdýchával to. Měchy si pomalu přivykaly.
 
@@ -147,7 +147,7 @@ Z roury vyšplíchla hovna. Prasátka se na ně se šťastným kviknutím vrhla
 
 Řekl doslova: „Ó jes! From víšá šit it, dzen mit very gut, very gud! Vud bi lanč fr mi, fr ju! Gud! Vilkam!“
 
-## 3.
+**3.**
 
 Každý den dělal Láďa více méně to samé. Jakmile horko zesílilo, koupil si něco k pití, sedl si do stínu, pokuřoval místní býlí a pozoroval zrzavé opice, brebentící v dusném vedru v korunách stromů.
 
@@ -289,7 +289,7 @@ Tak to šlo pár měsíců. Někdy jezdil každý den, někdy dvakrát třikrát
 
 Co bylo v tom voskovaném balíku, o to se nestaral.
 
-## 4.
+**4.**
 
 Jednoho dne se cestou zpátky zastavil, slezl z kola a sedl si pod strom. Opřel se o kmen a pokuřoval.
 
@@ -405,7 +405,7 @@ Láďovi se v hlavě rozprskla rachejtle. Všechno se rozletělo, jako když vy
 
 Ta ženská totiž měla ctitele. Brousil za ní, kudy mohl. Teď tady stál s kusem trubky v ruce, blýskal očima a těžce oddychoval. Bylo to jako z pitomého románu. Ženská zaječela. Měla dojem, že ječí. Ve skutečnosti jenom stála a otvírala namalovanou pusu, ze které se linul zvuk, jako když někdo otevře kohoutek a zjistí, že neteče voda.
 
-## 5.
+**5.**
 
 V zeleně povlečené posteli se rozvalovalo velké, bezvládné tělo. Potilo se a vzdychalo. V pokoji bylo jediné okno, zakryté polámanou žaluzií. Mezi žaluziemi se dovnitř vsouvaly rozpálené plechy ostrého světla. U protější zdi stála druhá postel, prázdná. Víc tam toho nebylo. Až na zprohýbaný plechový stolek, který nestál za řeč. Na stolku byla sklenice. V koutě za postelí stál u zdi batoh.
 
@@ -439,7 +439,7 @@ Potom: „Ty vole… co to je?“
 
 A potom: „Dyť já nespim…!“
 
-## 6.
+**6.**
 
 Láďovi se zdál sen. Zdálo se mu, že je v Říčanech a že tam přišla stará Pastejříková z vedlejšího baráku a ptala se ho, co by rád k večeři; Pastejříková byla sama a občas jim jen tak pro radost navařila nebo napekla. Ale když chtěl vyslovit, na co by měl strašnou chuť, zjistil, že nemůže mluvit, protože má místo úst obrovskou těžkou hadici, hadici jak od hovnocucu, která mu táhne hlavu k zemi. Podíval se líp a viděl, že se hadice kroutí po celé zahradě a končí u garáže mezi růžemi z Jericha, tam, jak je to sršní hnízdo. A jak se snažil i přesto promluvit a vyslovit, co by si tak nejradši dal, ucítil v hadici hluboké zavrčení. Sršni!
 
@@ -497,7 +497,7 @@ Pak si vzpomněl na svoji příhodu. Vzdychl a položil hlavu na polštář.
 
 Venku na větvi zahvízdal smaragdově zelený pták s dlouhatánským tenkým ocasem, odrazil se a odletěl směrem k místu, kde se ve slunci matně lesklo obrovité zelené vejce. Asi kopule nějakého chrámu. Anebo možná taky plynojem.
 
-## 7.
+**7.**
 
 Láďa se usilovně snažil nespadnout. Měl zřetelný dojem, že ano, že leží na posteli, ale ta že je na stropě; dole pod sebou viděl otáčející se vrtuli. Musel se chytnout železné pelesti, protože měl neodbytný pocit, že mu nic nebrání sletět rovnou na ten větrník.
 
@@ -539,7 +539,7 @@ Potom byl zpátky v Bombaji. Najednou stál na letišti a počítal peníze. M
 
 Koupil si strojek se žiletkou a na záchodě se oholil. Podíval se do zrcadla a vzpomněl si na něžnou přezdívku, kterou mu kdysi dala Dana, když spolu začínali. Když spolu chodili po Střešovicích. Říkala mu „Zombie“. Ty moje zombí.
 
-## 8.
+**8.**
 
 Obrovská lopatková kola se začala pomalu roztáčet. Potom se jejich chod ustálil na nízkém hučení a letadlo se začalo drobně chvět. Láďa se díval, jak se lidé, traktůrky a budovy sunou vzad. Letadlo drkotalo po dráze, pak se pomalu otočilo a začalo zrychlovat. Bombaj podklesla v kolenou, zhoupla se a zmizela.
 
@@ -553,7 +553,7 @@ I ta letuška měla jednu tajnou vášeň: palčivě toužila aspoň jednou v 
 
 Tableta začínala zabírat. Klidné, přívětivé šumění začalo vyplňovat Láďovu hlavu, celé tělo, interiér letadla, bílou vatou vycpanou krajinu tam za oknem. Vtom sebou trhnul: s neodvolatelnou přesností si uvědomil, že se vrací z Indie, ale že neví kam. A navíc že v té Indii ani jednou nezahlédl živého slona.
 
-## 9.
+**9.**
 
 Nad Evropou poprchávalo. Hydraulika v křídle měkce zasyčela a z odtokových hran se začaly líhnout mnohadílné klapky. Pastelově modrý boeing sebou plácl na mokrý beton a začal brzdit. Od kol se kouřilo. Špičky křídel se otřásaly. Nebe bylo nízké a šedivé.
 
