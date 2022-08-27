@@ -14,7 +14,7 @@
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
       "subtitle": "",
-      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h2": "",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
       "h4": "MLP.uroven5.nadpis",
       "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
@@ -28,7 +28,7 @@
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
       "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
-      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev\nMLP_uroven3_nadpis",
       "remove": "",
       "ignore": ""
     },
@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Jedno odpoledne"
+            "title": "Jedno odpoledne",
+            "children": []
           },
           {
             "filename": "konec_sveta_006.md",
@@ -109,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "První cizinci v Praze"
+            "title": "První cizinci v Praze",
+            "children": []
           },
           {
             "filename": "konec_sveta_007.md",
@@ -122,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zlaté časy"
+            "title": "Zlaté časy",
+            "children": []
           },
           {
             "filename": "konec_sveta_008.md",
@@ -135,8 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Konec světa"
+            "title": "Konec světa",
+            "children": []
           },
           {
             "filename": "konec_sveta_009.md",
@@ -148,8 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Vzpomínka na Ozzyho"
+            "title": "Vzpomínka na Ozzyho",
+            "children": []
           },
           {
             "filename": "konec_sveta_010.md",
@@ -161,8 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Láďovo poslední tango"
+            "title": "Láďovo poslední tango",
+            "children": []
           },
           {
             "filename": "konec_sveta_011.md",
@@ -174,8 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zlaté časy (díl 2.)"
+            "title": "Zlaté časy (díl 2.)",
+            "children": []
           },
           {
             "filename": "konec_sveta_012.md",
@@ -187,8 +187,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Bouřka"
+            "title": "Bouřka",
+            "children": []
           },
           {
             "filename": "konec_sveta_013.md",
@@ -200,8 +200,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Vrah"
+            "title": "Vrah",
+            "children": []
           },
           {
             "filename": "konec_sveta_014.md",
@@ -213,8 +213,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Druhá třetina (rychlorozpustný román)"
+            "title": "Druhá třetina (rychlorozpustný román)",
+            "children": []
           },
           {
             "filename": "konec_sveta_015.md",
@@ -398,6 +398,6 @@
       "user": "books-are-next",
       "repo": "hakl-konec-sveta"
     },
-    "generatedAt": 1661317155480
+    "generatedAt": 1661593366223
   }
 }
