@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2798-7
 readingOrder:
   - promo.html
   - konec_sveta_005.html
