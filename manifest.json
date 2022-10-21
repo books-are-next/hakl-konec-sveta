@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hakl-konec-sveta-17bb320",
-  "revision": "17bb320",
+  "identifier": "hakl-konec-sveta-5bec2d4",
+  "revision": "5bec2d4",
   "readingOrder": [
     "promo.html",
     "konec_sveta_005.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 14 2022 17:11:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665767512336
+    "date": "Fri Oct 21 2022 11:32:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351971621
   },
   "documents": [
     {
